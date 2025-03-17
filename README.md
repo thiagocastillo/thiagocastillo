@@ -1,6 +1,5 @@
 ### Hola Mundo  🤖🎮
 # Thiago Castillo
-## Profesor de areas teconologicas y estudiante de ingenieria
 <!--
 **thiagocastillo/thiagocastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
