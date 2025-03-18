@@ -92,8 +92,9 @@
 			<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/thiagocastillo">
 		<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-		<a style="margin-left: 10px;" target="_blank" href="mailto:Thiago.castillo.cbt@gmail.com">
+		<a style="margin-left: 10px;" href="mailto:Thiago.castillo.cbt@gmail.com?subject=Inquiry%20from%20GitHub&body=Hello%20Thiago,%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20contact%20you.">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
       </div>
 
 </p>
