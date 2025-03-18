@@ -9,7 +9,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Universidad Catolica del Uruguay](https://www.ucu.edu.uy/).
+- :school: I am a `Student` at [Universidad Catolica del Uruguay](https://www.ucu.edu.uy/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
